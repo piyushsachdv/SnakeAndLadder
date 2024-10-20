@@ -1,0 +1,51 @@
+Welcome to the **Snake and Ladder Game**!
+
+Player 1, press Enter to roll the die...
+You rolled a 4.
+Player 1 is now at square 4.
+
+1  2  3  #P1  5  6  7  8  9  10
+
+Player 2, press Enter to roll the die...
+You rolled a 6.
+Player 2 is now at square 6.
+
+1  2  3  4  5  #P2  7  8  9  10
+
+Player 1, press Enter to roll the die...
+You rolled a 2.
+Player 1 is now at square 6.
+You climbed a ladder! Moving to square 46!
+
+1  2  3  4  5  #P1  7  8  9  10
+...
+Player 2, press Enter to roll the die...
+You rolled a 3.
+Player 2 is now at square 9.
+
+1  2  3  4  5  6  7  8  #P2  10
+
+Player 1, press Enter to roll the die...
+You rolled a 1.
+Player 1 is now at square 47.
+
+1  2  3  4  5  6  7  8  9  10
+
+Player 2, press Enter to roll the die...
+You rolled a 4.
+Player 2 is now at square 13.
+You landed on a snake! Moving back to square 3.
+
+1  2  3  #P2  5  6  7  8  9  10
+...
+Player 1, press Enter to roll the die...
+You rolled a 3.
+Player 1 is now at square 50.
+
+1  2  3  4  5  6  7  8  9  10
+...
+Player 1, press Enter to roll the die...
+You rolled a 50.
+Player 1 wins!
+
+🎉 Congratulations Player 1! You are the champion of the Snake and Ladder Game! 🎉
